@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Arturo Rodas
 
-Bienvenido a mi perfil de GitHub. Soy un **desarrollador Full Stack** con una sólida experiencia en el desarrollo de sistemas web y aplicaciones web progresivas. Apasionado por la tecnología, me especializo en transformar ideas en soluciones funcionales y efectivas.
+Bienvenido a mi perfil de GitHub. Soy un **desarrollador Full Stack** con más de 10 años de experiencia en el desarrollo de sistemas web y aplicaciones web progresivas. Apasionado por la tecnología, me especializo en transformar ideas en soluciones funcionales y efectivas.
 
 ---
 ## 💼 Últimos Proyectos
