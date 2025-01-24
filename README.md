@@ -6,12 +6,12 @@ Bienvenido a mi perfil de GitHub. Soy un **desarrollador Full Stack** con más d
 
 ## 💼 Últimos Proyectos
 
-- **Dashboard para Casa de Apuestas Deportivas**: Creación de un sistema Dashboard integral para la gestión de una empresa de apuestas deportivas. Esto implicó desarrollar un sistema administrativo que permitiera a los administradores crear nuevas sucursales, agregar personal nuevo, acceder a gráficos de ventas y más. Además, se creó un sistema para los empleados que les permite registrar las ventas de las plataformas, interactuar entre sucursales para la extracción de tickets, hacer cierres de caja y solicitar permisos de acceso a administración, todo en tiempo real.
+- **Dashboard Hera**:
   
-  **Tecnologías usadas:** Node.js, Fastify, Sequelize, React, Socket.io, Tailwind
-
-  ![image](https://github.com/user-attachments/assets/a5b14a1f-f2cf-441e-9835-db828e037aac)
-  ![image](https://github.com/user-attachments/assets/bc8bab01-154b-48df-b1aa-d19514c5abd7)
+  **Tecnologías usadas:** GraphQL, Vue, Tailwind, AWS, Storybook, Typescript
+  
+  ![image](https://github.com/user-attachments/assets/7f0231ad-17e3-4d94-bb59-c9dbf9662cb1)
+  ![image](https://github.com/user-attachments/assets/9dc4c7af-b47b-4ab0-907f-716414372700)
 
 - **Campaña de Consultores para Natura**: Consistió en desarrollar un dashboard para una campaña interna de Natura dirigida
   a sus consultores. El dashboard fue para uso adminitrativo, para poder importar consultores y sus datos con excel, juegos que debían
@@ -31,6 +31,20 @@ Bienvenido a mi perfil de GitHub. Soy un **desarrollador Full Stack** con más d
 
   ![image](https://github.com/user-attachments/assets/68066aff-9acf-460c-9357-6120cddcb233)
   ![image](https://github.com/user-attachments/assets/167e9f86-df0a-4628-9120-af0da5248512)
+
+- **Sistema Multiempresa con Facturación Electrónica**: Creación de un sistema multiempresa con facturación electrónica para la gestión de almacenes, stock, ventas, empleados, clientes, proveedores, etc. Esto implicó desarrollar un sistema administrativo que permitiera a los administradores crear nuevas empresas, cada empresa podía agregar personal nuevo, acceder a gráficos de ventas y más.
+  
+  **Tecnologías usadas:** Laravel, Tailwind, React.js, Eloquent, Facturación electrónica, PHP, MySQL
+  
+  ![image](https://github.com/user-attachments/assets/0b5bc8cc-ccec-4bb7-9d3f-f08a095c6b92)
+  ![image](https://github.com/user-attachments/assets/696f79a3-4d49-4590-8b81-5b5eb2bf8fd5)
+
+- **Dashboard para Casa de Apuestas Deportivas**: Creación de un sistema Dashboard integral para la gestión de una empresa de apuestas deportivas. Esto implicó desarrollar un sistema administrativo que permitiera a los administradores crear nuevas sucursales, agregar personal nuevo, acceder a gráficos de ventas y más. Además, se creó un sistema para los empleados que les permite registrar las ventas de las plataformas, interactuar entre sucursales para la extracción de tickets, hacer cierres de caja y solicitar permisos de acceso a administración, todo en tiempo real.
+  
+  **Tecnologías usadas:** Node.js, Fastify, Sequelize, React, Socket.io, Tailwind
+
+  ![image](https://github.com/user-attachments/assets/a5b14a1f-f2cf-441e-9835-db828e037aac)
+  ![image](https://github.com/user-attachments/assets/bc8bab01-154b-48df-b1aa-d19514c5abd7)
 
 - **Creación de Dashboard para Fast Solutions**: Consistió en desarrollar un dashboard para la parte administrativa, y para el cliente. El dashboard de cliente podía ver gráficos, subir lotes de transacciones para su posterior conversión en el dashboard del administrador a archivos TXT de BCP, BBVA, SCOTIABANK e INTERBANK, cada uno con su respectivo modelo en base a lo estipulado por cada banco. Esos TXTs se subían a la plataforma de cada banco para poder realizar las transacciones.
 
